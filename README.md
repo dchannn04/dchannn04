@@ -5,6 +5,6 @@
 -I am currently learning web3.js and Solidity, and have been for the past year or so. 
 
 -I would love to be able to work in the web3 space and be able to build out full stack applications on the blockchain. 
--You can reach me at chanderick44@gmail.com or visit my LinkedIn at https://www.linkedin.com/in/derick-chan44/!
+-You can reach me at derickchan68@gmail.com or visit my LinkedIn at https://www.linkedin.com/in/derick-chan44/!
 
 -When I'm not coding I enjoy hiking, playing basketball, taking pictures, and listening to music!
