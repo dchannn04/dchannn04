@@ -1,10 +1,5 @@
--Hi, I'm Derick Chan. I am a recent computer science graduate from Villanova University. 
--I am currently a support developer, but I have recently developed a passion for web3 and blockchain technology. 
+-Hi, I'm Derick Chan. I'm a passionate and results-driven Technical Product Manager. With a strong background in technology and a keen eye for innovation, I specialize in transforming ideas into successful digital products.
 
--My technical skills from my education consist of Java, JS, HTML, Python, CSS, React, and SQL. 
--I am currently learning web3.js and Solidity, and have been for the past year or so. 
-
--I would love to be able to work in the web3 space and be able to build out full stack applications on the blockchain. 
--You can reach me at derickchan68@gmail.com or visit my LinkedIn at https://www.linkedin.com/in/derick-chan44/!
+-I'm a professional team leader with 3+ years of hands-on experience leading successful teams and digital initiatives. I have experience leading project sprints, ensuring high-quality delivery, and exercising collaborative team and stakeholder management. My main focus is on finding the right questions to ask and assembling the right team to achieve success. 
 
 -When I'm not coding I enjoy hiking, playing basketball, taking pictures, and listening to music!
